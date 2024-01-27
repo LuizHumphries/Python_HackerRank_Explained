@@ -1,3 +1,3 @@
-#Python HackerRank Questions Completed and Explained
+## Python HackerRank Questions Completed and Explained
 
-### This Repository contains all hackerank python questions, their solutions and the thinking process that lead to the success in the test
+<h3> This Repository contains all hackerank python question's solutions</h3>
